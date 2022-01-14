@@ -1,5 +1,8 @@
 _repo: Die-Medizin_67068
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67068-h/images/cover.jpg
 creator:
   author:
     agent_name: Traven, B.
@@ -17,6 +20,8 @@ creator:
     - https://de.wikipedia.org/wiki/B._Traven
     - https://en.wikipedia.org/wiki/B._Traven
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67068#Die-Medizin
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67068'
